@@ -1,0 +1,3 @@
+"%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe" ^
+  --proxy-server="socks5://localhost:1080" ^
+  --user-data-dir="%Temp%\billcluster-m" http://billcluster-m:8088
